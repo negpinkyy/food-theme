@@ -6,7 +6,6 @@
 
 body{
     font-family: 'Merriweather', serif;
-    /* background-color: #ebf2ff; */
     /* font-family: 'Lobster', cursive; */
     /* font-family: 'Berkshire Swash', cursive;
 font-family: 'Lobster', cursive;
@@ -409,7 +408,6 @@ background-color: #EFE39F;
 
 .restaurent{
     display: inline-block;
-    /* justify-content: space-around; */
     width: 100%;
     height: 70vh;
 }
@@ -421,7 +419,7 @@ background-color: #EFE39F;
 }
 
 .container__image{
-    width: 400px;
+    width: 550px;
     height: 70vh;
 }
 .restaurent__conteiner__para{
@@ -432,7 +430,7 @@ background-color: #EFE39F;
 
 .restaurent__para,.restaurent__para2{
     position: absolute;
-    width: 350px;
+    width: 400px;
     line-height: 30px;
     margin-left: 70px;
     margin-top: 50px;
